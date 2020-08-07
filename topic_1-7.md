@@ -42,3 +42,11 @@ $$(x^2)'=2x\;.$$
 2. $(f(x)\cdot g(x))'=f'(x)\cdot g(x)+f(x)\cdot g'(x)$
 3. $(a\cdot f(x)+b\cdot g(x))'=a\cdot f'(x)+b\cdot g'(x)$
 4. $f(g(x))'=g'(x)\cdot f'(g(x))$
+
+### 5. Problems
+
+1. $f(x)=x^2-5x+6\;,$ find $f'(x)$
+2. $f(x)=x^2e^x\;,$ find $f'(x)$
+3. $f(x)=\sin(3x)\;,$ find $f'(x)$
+4. $f(x)=e^{2x}\cdot\cos(3x)\;,$ find $f'(x)$
+5. $f(x)=(x^2-1)/(2x)\;,$ find $f'(x)$
